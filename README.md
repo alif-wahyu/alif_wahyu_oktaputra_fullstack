@@ -8,6 +8,7 @@
 	6. Untuk server lokal akses ke http://localhost/jsc-2022.
 	7. Untuk konfigurasi server selain lokal di application/config/config.php line 26
 	
-Tersedia fitur registrasi, CMS artikel, dan API
-API get data article untuk server lokal http://127.0.0.1/jsc-2022/jsc_api/article dengan metode get
+Tersedia fitur registrasi, CMS artikel, dan API.
+
+API get data article untuk server lokal http://127.0.0.1/jsc-2022/jsc_api/article dengan metode get.
 API get data article by id untuk server lokal http://127.0.0.1/jsc-2022/jsc_api/article dengan metode post ditambah parameter 'id'
