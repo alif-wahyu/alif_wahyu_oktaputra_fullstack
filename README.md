@@ -7,3 +7,5 @@
 	5. Jalankan web server
 	6. Untuk server lokal akses ke http://localhost/jsc-2022.
 	7. Untuk konfigurasi server selain lokal di application/config/config.php line 26
+	
+Tersedia fitur registrasi dan CMS artikel.
